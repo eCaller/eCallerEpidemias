@@ -57,7 +57,7 @@ La documentación funcional de la solución software se encuentra disponible en 
 
 La documentación técnica de la solución software se encuentra disponible en los siguientes enlaces:
 
-* **`App móvil`**: [Wiki-Documentación técnica app móvil](https://github.com/eCaller/eCallerEpidemiaWeb/wiki/documentación-técnica)
+* **`App móvil`**: [Wiki-Documentación técnica app móvil](https://github.com/eCaller/eCallerEpidemiaMovil/wiki/documentación-técnica)
 
 * **`Aplicación web`**: [Wiki-Documentación técnica aplicación web](https://github.com/eCaller/eCallerEpidemiaWeb/wiki/documentación-técnica)
 

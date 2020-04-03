@@ -47,14 +47,20 @@ eCaller Epidemias está constituida por dos componentes software:
 
 ## Descripción funcional
 
-La documentación funcional de la solución software se encuentra disponible en el enlace [Wiki-ReferenciaFuncional](https://github.com/eCaller/eCallerEpidemiaMovil/wiki/documentación-funcional).
+La documentación funcional de la solución software se encuentra disponible en los siguientes enlaces:
+
+* **`App móvil`**: https://github.com/eCaller/eCallerEpidemiaMovil/wiki/documentación-funcional
+
+* **`Aplicación web`**: https://github.com/eCaller/eCallerEpidemiaWeb/wiki/documentación-funcional
 
 ## Descripción técnica
 
-La documentación técnica de la solución software se encuentra disponible en el enlace [Wiki-ReferenciaTecnica](https://github.com/eCaller/eCallerEpidemiaMovil/wiki/documentación-técnica).
+La documentación técnica de la solución software se encuentra disponible en los siguientes enlaces:
+
+* **`App móvil`**: https://github.com/eCaller/eCallerEpidemiaWeb/wiki/documentación-técnica
+
+* **`Aplicación web`**: https://github.com/eCaller/eCallerEpidemiaWeb/wiki/documentación-técnica
 
 ## Licencia
 
 GNU GPL v3.0 (https://www.gnu.org/licenses/gpl-3.0.html).
-
-

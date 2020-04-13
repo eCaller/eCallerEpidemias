@@ -2,7 +2,7 @@
 
 [![logo](/docs/img/logo.png)](https://www.ingenia.es)
 
-> Versión en inglés 
+> Versión en inglés (en desarrollo)
 
 ## Introducción
 

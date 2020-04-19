@@ -42,7 +42,7 @@ eCaller Epidemias consists of two software components:
 * **`Mobile app`**.
     - [eCallerEpidemiaMovil](https://github.com/eCaller/eCallerEpidemiaMovil/blob/master/README-EN.md)
 
-* **`Web Application`**.
+* **`Web application`**.
     - [eCallerEpidemiaWeb](https://github.com/eCaller/eCallerEpidemiaWeb/blob/master/README-EN.md)
     - [eCallerEpidemiaBackEnd](https://github.com/eCaller/eCallerEpidemiaBackEnd/blob/master/README-EN.md)
 

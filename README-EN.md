@@ -54,7 +54,7 @@ The functional documentation of the software solution is available at the follow
     - [Wiki-Mobile app functional description](https://github.com/eCaller/eCallerEpidemiaMovil/wiki/functional-description)
 
 * **`Web application`**.
-    - [Wiki-Web Application functional description](https://github.com/eCaller/eCallerEpidemiaWeb/wiki/functional-description)
+    - [Wiki-Web application functional description](https://github.com/eCaller/eCallerEpidemiaWeb/wiki/functional-description)
 
 ## Technical description
 
@@ -64,7 +64,7 @@ The technical documentation of the software solution is available at the followi
     - [Wiki-Mobile app technical description](https://github.com/eCaller/eCallerEpidemiaMovil/wiki/technical-description)
 
 * **`Web application`**.
-    - [Wiki-Web Application technical description](https://github.com/eCaller/eCallerEpidemiaWeb/wiki/technical-description)
+    - [Wiki-Web application technical description](https://github.com/eCaller/eCallerEpidemiaWeb/wiki/technical-description)
 
 ## Licensing
 
